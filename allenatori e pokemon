@@ -1,0 +1,72 @@
+{
+  "pokemon and trainers": [
+    {
+      "id": 1,
+      "title": "Mabostiff",
+      "trainer": "pepe",
+      "year": 2022,
+      "company": "scarletviolet"
+    },
+    {
+      "id": 2,
+      "title": "squirtle",
+      "trainer": "red",
+      "year": 1996,
+      "company": "blue"      
+    },
+    {
+      "id": 3,
+      "title": "serperior",
+      "trainer": "Bianca",
+      "year": 2010,
+      "company": "blackwhite"      
+    },
+    {
+      "id": 4,
+      "title": "oshawott",
+      "trainer": "bianca",
+      "year": 2010,
+      "company": "blackwhite"      
+    }    
+  ],
+  "trainer": [
+    {
+      "id": 1,
+      "name": " red ",
+      "birthdate": "13/05/1950"
+    },
+    {
+      "id": 2,
+      "name": "green",
+      "birthdate": "26/05/26"
+    },
+    {
+      "id": 3,
+      "name": "nardo",
+      "birthdate": "02/10/1951"
+    },
+    {
+      "id": 4,
+      "name": "aristide",
+      "birthdate": "25/09/1999"
+    } 
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "plasma"
+    },
+    {
+      "id": 2,
+      "name": "rocket"
+    },
+    {
+      "id": 3,
+      "name": "galassia"
+    },
+    {
+      "id": 4,
+      "name": "star"
+    }
+  ]
+}
